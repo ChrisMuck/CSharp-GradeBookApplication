@@ -5,7 +5,7 @@ using GradeBook.Enums;
 
 namespace GradeBook.GradeBooks
 {
-    class RankedGradeBooks : BaseGradeBook
+    public class RankedGradeBooks : BaseGradeBook
     {
 
         public RankedGradeBooks(string name) : base(name)
